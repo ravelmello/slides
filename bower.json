@@ -1,0 +1,21 @@
+{
+  "name": "dudemelo-slides",
+  "description": "dudemelo slides",
+  "main": "index.js",
+  "authors": [
+    "dudemelo <dudemelo@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "slides"
+  ],
+  "homepage": "https://github.com/dudemelo/slides",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
