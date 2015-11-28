@@ -19,7 +19,7 @@
     "url": "https://github.com/dudemelo/slides/issues"
   },
   "homepage": "https://github.com/dudemelo/slides#readme",
-  "devDependencies": {
-    "bower": "^1.6.8"
+  "dependencies": {
+    "bower": "~1.6"
   }
 }
