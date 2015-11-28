@@ -1,0 +1,22 @@
+{
+  "name": "dudemelo-slides",
+  "version": "0.1.0",
+  "description": "dudemelo slides",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dudemelo/slides.git"
+  },
+  "keywords": [
+    "slides"
+  ],
+  "author": "dudemelo <dudemelo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dudemelo/slides/issues"
+  },
+  "homepage": "https://github.com/dudemelo/slides#readme"
+}
